@@ -12,3 +12,13 @@
 ***Sera un open-world mais c'est avec vos tetes vous imaginez l'entourage, et des choix des evenements sont proposes***
 
 ***On ne veut que vous vous noyer dans l'imagination, le texte descriptif de chaque location sera vous attribue***
+
+_____________________________________________________________________________________________________________________________________________________________________
+
+**Produit final**
+
+Au moins qu'il y a une interaction avec l environnement 
+C est a dire se déplacer et étudier chaque endroit.
+Le but sera de sortir de la prison, c'est questline.
+Et puis je vais essayer de faire quelques illustrations avec pixel art soit ascii
+
