@@ -22,3 +22,10 @@ C est a dire se déplacer et étudier chaque endroit.
 Le but sera de sortir de la prison, c'est questline.
 Et puis je vais essayer de faire quelques illustrations avec pixel art soit ascii
 
+**Liste des fonctions**
+
+Aller
+Voir autour 
+Fouiller
+Ouvrir
+Interroger 
