@@ -1,31 +1,31 @@
-# Adventure-RPG-game
+# COVERTISSUER
 
 
-## ADVEntur
+## YT.MP.PI
 
-***Jeux d'aventure, qui n'aures pas interface graphique mais quoi vous propose une tres grande rejouabilite***
+**Convertisseur mp3/mp4, vous convertie la video en format mp3 soit il la telecharge. Sachez que c'est en peu une piratrie mais ici on est venu faire le programme. Utilisation de tkinter, PIL, et pytube qui facilite beaucoup la tache.**
 
-***Les elements de rpg sont presents(c'est probable peut etre ca sera un personage unique et il y aura une histoire), seront fortement liees a la mecanique du jeu***
-
-***Pour la realisation on utilisera la POO et les structures de donees comme: graphes et arbres***
-
-***Sera un open-world mais c'est avec vos tetes vous imaginez l'entourage, et des choix des evenements sont proposes***
-
-***On ne veut que vous vous noyer dans l'imagination, le texte descriptif de chaque location sera vous attribue***
-
+**Mom programme il marche, il aut juste que je mets les touches finales pour mon projet. VOIR CI DESSOUS**
 _____________________________________________________________________________________________________________________________________________________________________
 
 **Produit final**
 
-Au moins qu'il y a une interaction avec l environnement 
-C est a dire se déplacer et étudier chaque endroit.
-Le but sera de sortir de la prison, c'est questline.
-Et puis je vais essayer de faire quelques illustrations avec pixel art soit ascii
+Covertisseur MP3/MP4 doit marcher et convertir en format mp3 et le telecharger ou la video elle meme. Ca sera une perfection de faire une barre de progression et de
+faire en sorte que les fenetres soient comme dans le navigateur web. Mais aussi l'embaler en fichier .exe et ensuite de faire une couverture.
+
+
 
 **Liste des fonctions**
+**PRINCIPALES**
+- def convert():
+- def download():  
+- def menu(): 
 
-Aller
-Voir autour 
-Fouiller
-Ouvrir
-Interroger 
+
+**Sub-fonctions**
+- def download_mp3():
+- def download_mp4():
+- def le_boutton():
+- def hors_la_zone():
+- def dans la_zone():
+- def retour():
